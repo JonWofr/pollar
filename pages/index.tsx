@@ -37,7 +37,7 @@ export default function Home() {
         </nav>
 
         <div className="flex items-center gap-[2rem]">
-          <button className="flex items-center gap-[1rem] px-[3rem] py-[0.6rem] rounded-[20px] bg-[#2E2E2E]">
+          <button className="flex items-center gap-[1rem] px-[3rem] py-[1rem] rounded-[20px] bg-[#2E2E2E]">
             <PollIcon className="h-[1rem]" />
             <span className="text-white text-[length:18px]">Create Polls</span>
           </button>
